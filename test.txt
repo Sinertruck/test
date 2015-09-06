@@ -1,0 +1,2 @@
+This is a test file.
+And this file have 2 lines.
